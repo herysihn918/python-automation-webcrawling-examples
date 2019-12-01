@@ -27,3 +27,4 @@ pyautogui.click(minus_xy)
 pyautogui.click(num3_xy)
 pyautogui.click(equal_xy)
 
+# plus run this file and have a fun.... (^ _ ^)
