@@ -27,4 +27,4 @@ for r in r_list:
 # close the browswer
 driver.close()
 
-# please run this file and have a fun.... (^ _ ^)
+# please run this file and have a fun... (^ _ ^)
