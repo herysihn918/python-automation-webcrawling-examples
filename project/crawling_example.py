@@ -17,4 +17,4 @@ for article in blog_articles:
     print(article['href'])
     print()
 
-# plus run this file and have a fun.... (^ _ ^)
+# please run this file and have a fun.... (^ _ ^)
