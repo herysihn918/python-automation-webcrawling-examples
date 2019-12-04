@@ -1,3 +1,6 @@
 /py_auto_env
 /.vscode
 /project/chromedriver.exe
+/project/test.py
+/project/download
+/project/debug.log
